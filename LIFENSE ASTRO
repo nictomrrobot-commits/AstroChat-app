@@ -1,0 +1,149 @@
+Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, configuration files, and any scripts related to the Work.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including compiled
+      object code, generated documentation, and conversions to other media
+      types.
+
+      "Work" shall mean the work of authorship, whether in Source or Object
+      form, made available under the License, including all files,
+      assets, scripts, images, and functionality of AstroChat.
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other
+      modifications represent, as a whole, an original work of authorship.
+      Derivative Works do not include works that remain separable from, or
+      merely link (or bind by name) to the interfaces of, the Work.
+
+      "Contribution" shall mean any work of authorship, including the
+      original version of the Work and any modifications or additions to
+      that Work or Derivative Works, that is intentionally submitted to
+      Licensor for inclusion in the Work by the copyright owner or by an
+      individual or Legal Entity authorized to submit on behalf of the
+      copyright owner.
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License.
+      Subject to the terms and conditions of this License, each Contributor
+      hereby grants to You a perpetual, worldwide, non-exclusive,
+      royalty-free, no-charge, irrevocable copyright license to reproduce,
+      prepare Derivative Works of, publicly display, publicly perform,
+      sublicense, and distribute the Work and such Derivative Works in
+      Source or Object form.
+
+   3. Grant of Patent License.
+      Subject to the terms and conditions of this License, each Contributor
+      hereby grants to You a perpetual, worldwide, non-exclusive, royalty-free,
+      no-charge, irrevocable (except as stated in this section) patent license
+      to make, have made, use, offer to sell, sell, import, and otherwise
+      transfer the Work, where such license applies only to patent claims
+      licensable by such Contributor that are necessarily infringed by
+      their Contribution(s) alone or by combination with the Work. Any patent
+      litigation alleging infringement terminates such licenses.
+
+   4. Redistribution.
+      You may reproduce and distribute copies of the Work or Derivative Works
+      in any medium, with or without modifications, provided that you:
+      
+      (a) include a copy of this License;
+      (b) mark modified files with prominent notices of changes;
+      (c) retain copyright, patent, trademark, and attribution notices;
+      (d) include readable attribution notices from any included NOTICE
+          file, in the Source, documentation, or display output.
+
+      You may add your own copyright and attribution statements, provided
+      it does not conflict with this License.
+
+   5. Submission of Contributions.
+      Unless explicitly stated otherwise, contributions submitted for
+      inclusion are under this License. Separate agreements with Licensor
+      may modify this.
+
+   6. Trademarks.
+      This License does not grant permission to use trade names, trademarks,
+      service marks, or product names of the Licensor, except as required
+      for reasonable use in describing the origin of the Work.
+
+   7. Disclaimer of Warranty.
+      The Work is provided "AS IS", without warranties or conditions of any
+      kind, either express or implied, including TITLE, NON-INFRINGEMENT,
+      MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You assume all
+      risks for using or redistributing the Work.
+
+   8. Limitation of Liability.
+      In no event shall any Contributor be liable for any damages, including
+      direct, indirect, special, incidental, or consequential damages, even
+      if advised of the possibility.
+
+   9. Accepting Warranty or Additional Liability.
+      You may offer support, warranty, or indemnity obligations with your
+      distribution, but you are solely responsible and must indemnify all
+      Contributors.
+
+   10. Project-Specific Descriptions for AstroChat AI
+      AstroChat AI is a Telegram chat-bot and mini-application integrating
+      AI dialogue, voice assistant, and content management. Key features:
+      
+      - Interactive live chat with humor, philosophical, and informative modes.
+      - Random quote generation with rarity levels (common, rare, mythic).
+      - Admin panel for managing users, channels, premium access, and content.
+      - Integration with Google Play, App Store, and P2P payment systems.
+      - AstroSecurity system: automatic scanning and self-healing of vulnerabilities.
+      - Voice and text communication on multiple devices.
+      - Premium features: advanced dialogues, interactive emoji, and media generation.
+      - Compliance with privacy policies, restricted content handling, and user safety.
+      - Scalable architecture with room for future extensions and additional modules.
+      
+      These descriptions serve as guidance for the scope and allowed use of AstroChat
+      AI under this License.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: Applying the Apache License to Your Work
+
+      Copyright 2026 John, AstroChat AI
+      Licensed under the Apache License, Version 2.0 (the "License");
+      You may not use this file except in compliance with the License.
+      You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+      Unless required by law or agreed to in writing, software distributed under
+      the License is on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS
+      OF ANY KIND, either express or implied. Follow the License for use,
+      reproduction, and distribution.
+
+      This document also serves to outline the permitted functionalities and
+      responsibilities for AstroChat AI, including premium features, admin
+      controls, and security modules.
